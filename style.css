@@ -1,0 +1,32 @@
+*{
+    margin: 5px 0px;
+    padding: 0;
+}
+.car{
+    margin: 10px 0 70px 20px;
+    display: flex;
+    align-items: center;
+}
+.car button{
+    display: block;
+    margin: 5px;
+    width: 60px;
+    height: 20px;
+    background: none;
+    border: 1px solid blueviolet;
+    border-radius: 3.5px;
+    color: blueviolet;
+    cursor: pointer;
+}
+.car img{
+    border-radius: 20px;
+    width: 120px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+}
+input{
+    width: 60px;
+    font-size: 11px;
+    padding: 5px;
+}
